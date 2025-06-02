@@ -1,0 +1,8 @@
+ib_insync>=0.9.80
+dash
+Dash-bootstrap-components
+pandas
+requests
+python-dotenv
+plotly
+gunicorn 
